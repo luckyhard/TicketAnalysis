@@ -29,18 +29,18 @@
 	行测试。
 
 	所有代理人分层显示
-<img src="images/1.PNG"/>
+<img src="https://github.com/luckyhard/TicketAnalysis/blob/master/images/1.png"/>
 
     指定代理人查看其某天的销售信息
 
-<img src="images/2.PNG"/>
+<img src="https://github.com/luckyhard/TicketAnalysis/blob/master/images/2.png"/>
 
     对指定代理人预测其明天的销售总票数，总金额:
 
-<img src="images/3.PNG"/>
+<img src="https://github.com/luckyhard/TicketAnalysis/blob/master/images/3.png"/>
 
     查看代理人15天内每天的平均销售资金:
-<img src="images/4.PNG"/>
+<img src="https://github.com/luckyhard/TicketAnalysis/blob/master/images/4.png"/>
 
     心得：通过这次民航系统的开发，简单了解了大数据，并独立搭建了大数据分析的平台，学会简单使用Spark进行数据分析。
 
